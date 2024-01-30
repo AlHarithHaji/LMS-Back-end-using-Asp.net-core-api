@@ -1,0 +1,34 @@
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Entity.deps.json
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Entity.runtimeconfig.json
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Entity.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Entity.pdb
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Domain.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Domain.pdb
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.csproj.AssemblyReference.cache
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.AssemblyInfoInputs.cache
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.AssemblyInfo.cs
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.csproj.CoreCompileInputs.cache
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.csproj.CopyComplete
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\refint\Core.Entity.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.pdb
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.genruntimeconfig.cache
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\ref\Core.Entity.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Entity.deps.json
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Entity.runtimeconfig.json
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Entity.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Entity.pdb
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Domain.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\bin\Debug\net6.0\Core.Domain.pdb
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.csproj.AssemblyReference.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.AssemblyInfoInputs.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.AssemblyInfo.cs
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.csproj.CoreCompileInputs.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.csproj.CopyComplete
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\refint\Core.Entity.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.pdb
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\Core.Entity.genruntimeconfig.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Entity\obj\Debug\net6.0\ref\Core.Entity.dll

@@ -1,0 +1,23 @@
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Domain\bin\Debug\net6.0\Core.Domain.deps.json
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Domain\bin\Debug\net6.0\Core.Domain.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Domain\bin\Debug\net6.0\Core.Domain.pdb
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.AssemblyInfoInputs.cache
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.AssemblyInfo.cs
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.csproj.CoreCompileInputs.cache
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\refint\Core.Domain.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.pdb
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\ref\Core.Domain.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\bin\Debug\net6.0\Core.Domain.deps.json
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\bin\Debug\net6.0\Core.Domain.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\bin\Debug\net6.0\Core.Domain.pdb
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.csproj.AssemblyReference.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.AssemblyInfoInputs.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.AssemblyInfo.cs
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\refint\Core.Domain.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\Core.Domain.pdb
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\Core.Domain\obj\Debug\net6.0\ref\Core.Domain.dll

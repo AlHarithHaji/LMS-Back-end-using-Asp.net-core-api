@@ -1,0 +1,162 @@
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\appsettings.json
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\LMSForStudentAPI.exe
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\LMSForStudentAPI.deps.json
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\LMSForStudentAPI.runtimeconfig.json
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\LMSForStudentAPI.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\LMSForStudentAPI.pdb
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\ClosedXML.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Irony.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\XLParser.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Domain.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Entity.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Reposository.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Services.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Entity.pdb
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Services.pdb
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Domain.pdb
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Reposository.pdb
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.csproj.AssemblyReference.cache
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.AssemblyInfoInputs.cache
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.AssemblyInfo.cs
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.csproj.CoreCompileInputs.cache
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets\msbuild.LMSForStudentAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.LMSForStudentAPI.props
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LMSForStudentAPI.props
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LMSForStudentAPI.props
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\scopedcss\bundle\LMSForStudentAPI.styles.css
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.csproj.CopyComplete
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\refint\LMSForStudentAPI.dll
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.pdb
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.genruntimeconfig.cache
+D:\Projects 2023-24\FiverProjects\LMSForStudent\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\ref\LMSForStudentAPI.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\LMSForStudentAPI.exe
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\LMSForStudentAPI.deps.json
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\LMSForStudentAPI.runtimeconfig.json
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\LMSForStudentAPI.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\LMSForStudentAPI.pdb
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Irony.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\XLParser.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Domain.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Entity.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Reposository.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Services.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Entity.pdb
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Services.pdb
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Domain.pdb
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\bin\Debug\net6.0\Core.Reposository.pdb
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.csproj.AssemblyReference.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.AssemblyInfoInputs.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.AssemblyInfo.cs
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.csproj.CoreCompileInputs.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets\msbuild.LMSForStudentAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.LMSForStudentAPI.props
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LMSForStudentAPI.props
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LMSForStudentAPI.props
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\scopedcss\bundle\LMSForStudentAPI.styles.css
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.csproj.CopyComplete
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\refint\LMSForStudentAPI.dll
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.pdb
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\LMSForStudentAPI.genruntimeconfig.cache
+C:\Users\its_l\Downloads\LMSForStudentAPI_V-4FN\LMSForStudentAPI\LMSForStudentAPI\obj\Debug\net6.0\ref\LMSForStudentAPI.dll
